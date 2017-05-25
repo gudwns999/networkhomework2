@@ -1,0 +1,23 @@
+﻿  test.c
+  SPA.c
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(399): warning C4101: 'hThread' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(392): warning C4101: 'end' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(382): warning C4101: 'edgearray' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(397): warning C4101: 'clntAddrSize' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(381): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(387): warning C4101: 'servSock' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(392): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(388): warning C4101: 'clntSock' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(381): warning C4101: 'bytes' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(395): warning C4101: 'servAddr' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(383): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(380): warning C4101: 'fh2' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(381): warning C4101: 'costarray' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(380): warning C4101: 'fh1' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(382): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(383): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(381): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(379): warning C4101: 'fileID' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\network\(2016) 과제2 & 3\spa.c(400): warning C4101: 'dwThreadID' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  homework.vcxproj -> C:\Users\Kim\Desktop\Network\homework\Debug\homework.exe
